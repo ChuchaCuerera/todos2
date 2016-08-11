@@ -28,6 +28,7 @@ set :puma_worker_timeout, nil
 set :puma_init_active_record, true # Change to false when not using
 
 
+
 # # config valid only for current version of Capistrano
 # lock '3.6.0'
 
